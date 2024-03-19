@@ -1,0 +1,24 @@
+  html,
+  body {
+    position: relative;
+  }
+  .swiper-slide {
+    font-size: 18px;
+    background: #eeeeee;
+    /*background-image: url('../../../public/material/TOPBG.png');
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .swiper-slide  {
+    display: flex;
+    margin: auto;
+    position: center;
+    width: 100%;
+  }
+  
+  
